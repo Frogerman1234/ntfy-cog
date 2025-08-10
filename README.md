@@ -2,7 +2,7 @@
 This Repo is for just this cog right now. Its an NTFY Cog so that way you can send ntfy notifications from discord for a number of reasons.
 
 # Installation
-As far as im aware you just need to put this in your Cogs Folder and then load it. I put it in the CogManager/Cog folder specifically.
+As far as im aware you just need to put this in your Cogs Folder and then load it. I put it in the CogManager/Cog folder specifically. Ive Recently updated it to work with the downloader just waiting on approval.
 
 # Contact
 If there are any issues questions or comments feel free to contact me at support@russ-tek.com.
