@@ -265,8 +265,3 @@ class NTFY(commands.Cog):
     async def cog_load(self):
         """Start the task when the cog loads."""
         self.send_to_ntfy_task = self.send_to_ntfy.start()
-
-async def setup(bot: Red):
-    """Add the cog to the bot."""
-    cog = NTFY(bot)
-    await bot.add_cog(cog)
