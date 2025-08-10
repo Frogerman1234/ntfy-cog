@@ -1,4 +1,4 @@
-# Repository Name
+# NTFY-COG
 This Repo is for just this cog right now. Its an NTFY Cog so that way you can send ntfy notifications from discord for a number of reasons.
 
 # Installation
