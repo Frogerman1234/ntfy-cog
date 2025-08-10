@@ -1,9 +1,9 @@
 {
     "author" : ["This_Gai (Frogerman1234)"],
-    "install_msg" : "Now that youve got it installed load it and use do [p]ntfy to see all the commands.",
+    "install_msg" : "Now that youve got it installed load it and use do [p]ntfy or ifttt to see all the commands.",
     "name" : "NTFY-COG",
-    "short" : "Just a small repo for this one cog at the moment.",
-    "description" : "This is just a small repo at the moment if i feel like making a new cog ill update this but for now its just a one off thing",
-    "tags" : ["NTFY, Utility, Webhook"],
+    "short" : "Just a small repo for these two cogs at the moment.",
+    "description" : "This is just a small repo at the moment if i feel like making a new cog ill update this but for now its just a one off thing.",
+    "tags" : ["NTFY, Utility, Webhook, Notification"],
     "end_user_data_statement" : "This Cog will send your message only to whatever endpoint you enter so use at your own risk. The cog itself collects no data but where you send the data might"
 }
