@@ -1,0 +1,15 @@
+{
+    "author": ["Frogerman1234"],
+    "description": "Send messages to NTFY endpoints with configurable settings. Allows automatic forwarding of Discord messages to NTFY notification services with customizable headers.",
+    "short": "Send Discord messages to NTFY notification endpoints",
+    "install_msg": "Thank you for installing my NTFY cog! Use `[p]ntfy` to configure your NTFY endpoint settings. Make sure to set your NTFY URL with `[p]ntfy url <your-ntfy-url>` before using.",
+    "end_user_data_statement": "This cog does not store any end user data. It only stores guild-specific configuration settings such as NTFY URLs, headers, tokens, and optional rate limits.",
+    "min_bot_version": "3.4.0",
+    "min_python_version": [3, 8, 0],
+    "hidden": false,
+    "disabled": false,
+    "required_cogs": {},
+    "requirements": ["aiohttp"],
+    "tags": ["notifications", "ntfy", "messaging", "alerts", "utility"],
+    "type": "COG"
+}
