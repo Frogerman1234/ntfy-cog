@@ -1,0 +1,12 @@
+{
+  "name": "IFTTT",
+  "short": "Send Discord messages to IFTTT Webhooks",
+  "description": "Relay Discord messages (with rate-limiting and optional bot filtering) to an IFTTT Webhooks endpoint.",
+  "tags": ["notifications", "webhook", "ifttt"],
+  "author": ["Frogerman1234"],
+  "required_cogs": {},
+  "requirements": ["aiohttp"],
+  "type": "COG",
+  "permissions": [],
+  "end_user_data_statement": "This cog stores per-guild configuration such as the IFTTT webhook URL, rate-limit settings and allowed bot ID. It stores no personal user data."
+}
