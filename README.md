@@ -1,11 +1,11 @@
 # NTFY-COG
-This Repo is for just this cog right now. Its an NTFY Cog so that way you can send ntfy notifications from discord for a number of reasons.
+This Repo is for just these cogs right now. Its an NTFY Cog and an IFTTT Cog so that way you can send notifications from discord for a number of reasons to either places. With the Addition of IFTTT you can also now trigger smart home events if you wanted.
 
 # Installation
-As far as im aware you just need to put this in your Cogs Folder and then load it. I put it in the CogManager/Cog folder specifically. Ive Recently updated it to work with the downloader just waiting on approval.
+As far as im aware you just need to download it and setup the urls and its ready to go. Testing on my end has shown that to be
 
 # Contact
 If there are any issues questions or comments feel free to contact me at support@russ-tek.com.
 
 # Credits
-I did all the work myself with some help of AI so id love to Cite DeepSeek V3 in helping me. 
+I did all the work myself with some help of AI so id love to Cite DeepSeek V3, OpenAI o3 and Claude 4 Sonnet in helping me.
